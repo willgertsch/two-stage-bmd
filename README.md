@@ -12,5 +12,3 @@ Some such as ggplot2 and metaheuristicOpt are CRAN packages.
 Two key packages, [ToxicR](https://github.com/NIEHS/ToxicR) and [simChef](https://yu-group.github.io/simChef/), are currently not on CRAN at the time of writing.
 These packages need to be manually installed from their respective Github pages.
 
-We also offer a Shiny app for finding the optimal second stage designs introduced in the manuscript.
-A live version can be found [here]() and the source code can be found [here]().
